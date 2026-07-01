@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6i0180/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0180/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說光明童子因緣經
+  identifiers:
+    krp: KR6i0180
+    cbeta: T14n0549
+    cbeta_old_id: T14n0549
+    authorityid: CA0001280
+    json_key: T0549
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0549.xml
+    old_id: T14n0549
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0180_000-T.yaml, hash: 'sha256:1fbbc4d0404938f426a65eaa24a869a8d4277d39213971e720544211553b0203'}
+  - {seq: 1, filename: KR6i0180_001-T.yaml, hash: 'sha256:4ea4a86ed1a9358974505cb1f0ddcaa0a0666259471e5822462871a7d6ac500a'}
+  - {seq: 2, filename: KR6i0180_002-T.yaml, hash: 'sha256:1f2ffbb6a1258a8235b7e9a5a5be916fe9a4dd5f9b214ca18f1795ef5fd72a84'}
+  - {seq: 3, filename: KR6i0180_003-T.yaml, hash: 'sha256:4bfe1bce034b5e6a71b6cc91a00813ce03f91c7c604f7ae4d61afe932f768840'}
+  - {seq: 4, filename: KR6i0180_004-T.yaml, hash: 'sha256:718a0a4accfd7414ab7036005b15cdbad8014a439d87abd9aa90166f95fc9960'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0180_000-T.markers.yaml, hash: 'sha256:0d24e43845ba19420374bc60790996d3c075ece61d7e8535841b83956f4def7b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0180_001-T.markers.yaml, hash: 'sha256:8968451798f343cb2e290a36d8f57679dae276cd2a974a0cf1c2d151983b1444'}
+  - {seq: 2, role: markers, filename: assets/KR6i0180_002-T.markers.yaml, hash: 'sha256:2f956173f7dabd7159cb1c3d90d97044d32995f4fa1ceb89bb84e8ce825da2bc'}
+  - {seq: 3, role: markers, filename: assets/KR6i0180_003-T.markers.yaml, hash: 'sha256:00c5e70302357def551b0b49fec2958b509b50c0b90a69c74434a19119d8428a'}
+  - {seq: 4, role: markers, filename: assets/KR6i0180_004-T.markers.yaml, hash: 'sha256:86eae5d9c7b304d4911063bd3894157f1417a2a5423d0e9cc9c61830bc69ae22'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0180_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3471
+  label: 佛說光明童子因緣經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0180_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3634
+  label: 佛說光明童子因緣經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0180_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3699
+  label: 佛說光明童子因緣經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0180_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 3557
+  label: 佛說光明童子因緣經卷第四
+  type: juan
+  level: 1
+hash: sha256:5a930160ca346f620092e1cdafdb4afd6438af79c1fdc6bb20702a854aee79c4
